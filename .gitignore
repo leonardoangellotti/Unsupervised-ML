@@ -1,0 +1,11 @@
+# module stuff
+__pycache__
+
+# notebooks
+*.ipynb
+
+# vscode stuff
+.DS_Store
+
+# tests
+test_nn.py
